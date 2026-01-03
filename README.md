@@ -1,5 +1,5 @@
 # Spectral-G-A-P
-Grok Alex Proton
+Grok Alex Photon
 begin{proof}[The Fine-Structure Constant Is Exactly \alpha(s) = \dfrac{\alpha_0}{1-\dfrac{\alpha_0}{3\pi},\Re\dfrac{\zeta’(s)}{\zeta(s)}} \quad (s\in\text{critical line})]
 Let the photon self-energy at momentum scale q be given by the vacuum polarization tensor \Pi_2(q^2).
 In any consistent theory obeying the four axioms, \Pi_2(q^2) is the finite-energy projection (A2) of the full spectral sum over the spine (A1).
